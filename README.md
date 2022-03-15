@@ -11,5 +11,5 @@ There's not much for now. Hope I can improve it every once in a while.
 ## How to use it
 
 - Replace mock data (csv) files by your own budget data.
-- If you want to use data in not the exact format, change parameters accordingly.
+- If you want to use data in not exactly the same format, change parameters or code accordingly.
 - Run __main.py__ (or the other scripts separetedly) and go explore your finances.
